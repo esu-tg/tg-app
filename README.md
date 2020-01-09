@@ -21,6 +21,7 @@
 ![phone-4](https://raw.githubusercontent.com/esu-tg/tg-app/master/readme-img/phone4.png) <br>
 
 ## 电脑版
+首先打开下载好的 tsetup.exe <br>
 第一步：点击OK <br>
 ![pc-1](https://raw.githubusercontent.com/esu-tg/tg-app/master/readme-img/pc1.jpg) <br>
 第二步：一路狂点NEXT按键，即可完成安装。 <br>
