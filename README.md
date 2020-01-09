@@ -10,7 +10,7 @@
 本页面安装包全部来自电报官方网站、Play应用商店和APKMIRROR网站，安全放心。
 # 安装方法
 安装也十分简单，只需要四步甚至是两步
-## 手机版
+## 安卓手机版
 第一步：点击状态栏里的“下载完成” <br>
 ![phone-1](https://raw.githubusercontent.com/esu-tg/tg-app/master/readme-img/phone1.png) <br>
 第二步：如果弹出了“禁止安装”，请点击“设置” <br>
