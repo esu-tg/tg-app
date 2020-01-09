@@ -17,7 +17,7 @@
 ![phone-2](https://raw.githubusercontent.com/esu-tg/tg-app/master/readme-img/phone2.png) <br>
 第三步：打开允许的开关，点击左上角返回 <br>
 ![phone-3](https://raw.githubusercontent.com/esu-tg/tg-app/master/readme-img/phone3.png) <br>
-第四步：现在可以点击安装了 <br>
+第四步：由于现在电报还没在华为应用商店上架，所以手机会提示未知应用，点击继续安装就可以了 <br>
 ![phone-4](https://raw.githubusercontent.com/esu-tg/tg-app/master/readme-img/phone4.png) <br>
 
 ## 电脑版
