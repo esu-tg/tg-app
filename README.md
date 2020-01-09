@@ -5,7 +5,7 @@
 **Windows电脑最新版：**[👉点击此处开始下载👈](https://github.com/esu-tg/tg-windows/releases/latest/download/tsetup.exe) <br>
 **苹果MAC电脑最新版：**[👉点击进入AppStore应用商店👈](https://apps.apple.com/app/telegram-desktop/id946399090) <br>
 <br>
-**苹果iPhone、iPad下载：**[👉点击进入AppStore应用商店👈](https://apps.apple.com/app/telegram-messenger/id686449807)
+**苹果iPhone、iPad下载：**[👉点击进入AppStore应用商店👈](https://itunes.apple.com/app/telegram-messenger/id686449807)
 <br><br>
 本页面安装包全部来自电报官方网站、Play应用商店和APKMIRROR网站，安全放心。
 # 安装方法
