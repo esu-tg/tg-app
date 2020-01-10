@@ -7,7 +7,9 @@
 <br>
 **苹果iPhone、iPad下载：**[👉点击进入AppStore应用商店👈](https://itunes.apple.com/app/telegram-messenger/id686449807)
 <br><br>
-本页面安装包全部来自电报官方网站、Play应用商店和APKMIRROR网站，安全放心。
+本页面安装包全部来自电报官方网站、Play应用商店和APKMIRROR网站，安全放心。 <br>
+安装完后，请来看看《[电报APP的使用问题](https://esu-tg.github.io)》
+
 # 安装方法
 安装也十分简单，只需要四步甚至是两步
 ## 安卓手机版
