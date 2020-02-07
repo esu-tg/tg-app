@@ -14,17 +14,17 @@
 安装也十分简单，只需要四步甚至是两步
 ## 安卓手机版
 第一步：点击状态栏里的“下载完成” <br>
-![图片加载失败，请刷新网页](https://raw.github.cnpmjs.org/esu-tg/tg-app/master/readme-img/phone1.png) <br>
+![图片加载失败，请刷新网页](https://cdn.jsdelivr.net/gh/esu-tg/tg-app/master/readme-img/phone1.png) <br>
 第二步：如果弹出了“禁止安装”，请点击“设置” <br>
-![图片加载失败，请刷新网页](https://raw.github.cnpmjs.org/esu-tg/tg-app/master/readme-img/phone2.png) <br>
+![图片加载失败，请刷新网页](https://cdn.jsdelivr.net/gh/esu-tg/tg-app/master/readme-img/phone2.png) <br>
 第三步：打开允许的开关，点击左上角返回 <br>
-![图片加载失败，请刷新网页](https://raw.github.cnpmjs.org/esu-tg/tg-app/master/readme-img/phone3.png) <br>
+![图片加载失败，请刷新网页](https://cdn.jsdelivr.net/gh/esu-tg/tg-app/master/readme-img/phone3.png) <br>
 第四步：由于现在电报还没在华为应用商店上架，所以手机会提示未知应用，点击继续安装就可以了 <br>
-![图片加载失败，请刷新网页](https://raw.github.cnpmjs.org/esu-tg/tg-app/master/readme-img/phone4.png) <br>
+![图片加载失败，请刷新网页](https://cdn.jsdelivr.net/gh/esu-tg/tg-app/master/readme-img/phone4.png) <br>
 
 ## 电脑版
 首先打开下载好的 tsetup.exe <br>
 第一步：点击OK <br>
-![图片加载失败，请刷新网页](https://raw.github.cnpmjs.org/esu-tg/tg-app/master/readme-img/pc1.jpg) <br>
+![图片加载失败，请刷新网页](https://cdn.jsdelivr.net/gh/esu-tg/tg-app/master/readme-img/pc1.jpg) <br>
 第二步：一路狂点NEXT按键，即可完成安装。 <br>
-![图片加载失败，请刷新网页](https://raw.github.cnpmjs.org/esu-tg/tg-app/master/readme-img/pc2.jpg) <br>
+![图片加载失败，请刷新网页](https://cdn.jsdelivr.net/gh/esu-tg/tg-app/master/readme-img/pc2.jpg) <br>
