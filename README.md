@@ -1,8 +1,8 @@
 # 官方正版电报APP下载
 
-**安卓手机最新版：**[👉点击此处开始下载👈](https://github.com/esu-tg/tg-app/releases/latest/download/telegram.apk) <br>
+**安卓手机最新版：**[👉点击此处开始下载👈](https://f-droid.org/zh_Hant/packages/org.telegram.messenger/) <br>
 <!--如果您使用的手机较旧，出现了无法安装的情况，请点击 [👉旧手机专用下载👈](https://github.com/esu-tg/tg-app-old/releases/latest/download/telegram-old.apk) <br> --> <br>
-**Windows电脑最新版：**[👉点击此处开始下载👈](https://github.com/esu-tg/tg-windows/releases/latest/download/tsetup.exe) <br>
+**Windows电脑最新版：**[👉点击此处开始下载👈](https://github.com/TDesktop-x64/tdesktop/releases/latest) <br>
 **苹果MAC电脑最新版：**[👉点击进入AppStore应用商店👈](https://itunes.apple.com/app/telegram-desktop/id946399090) <br>
 <br>
 **苹果iPhone、iPad下载：**[👉点击进入AppStore应用商店👈](https://itunes.apple.com/app/telegram-messenger/id686449807)
